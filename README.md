@@ -4,8 +4,6 @@
 
 The **Electronics Material Revenue Dashboard** is an interactive **Power BI** project designed to analyze sales performance, revenue trends, product performance, regional sales, and sales representative contributions for an electronics business. This dashboard provides business users with real-time insights into revenue distribution, sales trends, regional performance, and customer purchasing behavior through interactive visualizations and slicers.
 
----
-
 ## 🎯 Objectives
 
 The objectives of this project are to:
@@ -18,8 +16,6 @@ The objectives of this project are to:
 - Analyze sales representative performance.
 - Provide interactive business insights using Power BI.
 
----
-
 ## 🛠️ Tools & Technologies
 
 - Power BI Desktop
@@ -27,8 +23,6 @@ The objectives of this project are to:
 - DAX
 - Microsoft Excel
 - Data Modeling
-
----
 
 ## 📂 Dataset
 
@@ -44,9 +38,7 @@ The dataset contains sales information for an electronics company, including:
 - Gender
 - Month
 - Quarter
-
----
-
+- 
 ## 📊 Dashboard Features
 
 ### KPI Cards
@@ -56,17 +48,13 @@ The dataset contains sales information for an electronics company, including:
 - 🛒 Total Sales
 - 🏆 Highest Revenue Generating Product
 
----
-
-### Interactive Filters
+Interactive Filters
 
 - Month
 - Quarter
 - Store
 
----
-
-### Visualizations
+Visualizations
 
 - Revenue by Region
 - Monthly Revenue Trend
@@ -77,9 +65,7 @@ The dataset contains sales information for an electronics company, including:
 - Sales Summary Matrix
 - Region-wise Product Sales Summary
 
----
-
-## 📈 Key Insights
+📈 Key Insights
 
 - 📱 **Smartphones** generate the highest revenue among all product categories.
 - 🌏 **Asia** contributes the largest share of total revenue.
@@ -89,9 +75,7 @@ The dataset contains sales information for an electronics company, including:
 - 📉 Quarter 1 records the highest revenue, while Quarter 3 shows the lowest.
 - 📦 Product sales remain consistent across multiple regions.
 
----
-
-## 💡 Business Insights
+ 💡 Business Insights
 
 - Increase inventory and marketing efforts for **Smartphones**, the top-performing product category.
 - Investigate declining monthly revenue trends and implement seasonal promotional campaigns.
@@ -99,9 +83,7 @@ The dataset contains sales information for an electronics company, including:
 - Optimize sales representative training based on high performers.
 - Focus marketing efforts on high-revenue regions while identifying opportunities to improve sales in lower-performing markets.
 
----
-
-## 🧠 Skills Demonstrated
+🧠 Skills Demonstrated
 
 - Data Cleaning
 - Power Query
@@ -115,7 +97,7 @@ The dataset contains sales information for an electronics company, including:
 - Storytelling with Data
 
 
-## 👩‍💻 Author
+👩‍💻 Author
 
 **Addreja Chakraborty**
 
@@ -125,6 +107,5 @@ The dataset contains sales information for an electronics company, including:
 
 🐙 GitHub: https://github.com/addreja-analytics
 
----
 
 ⭐ If you found this project useful, consider giving it a **Star**!
