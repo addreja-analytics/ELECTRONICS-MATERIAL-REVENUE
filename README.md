@@ -101,7 +101,7 @@ Visualizations
 
 **Addreja Chakraborty**
 
-📧 Email: addrejachakraborty456@gmail.com
+📧 Email: addrejachakraborty845@gmail.com
 
 💼 LinkedIn: https://www.linkedin.com/in/addreja-chakraborty
 
